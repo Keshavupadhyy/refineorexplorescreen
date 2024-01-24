@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="fragment_container" type="id">f</item>
+    <item name="nav_view" type="id">n</item>
+    <item name="navigation_explore" type="id">nav</item>
+    <item name="navigation_refine" type="id">re</item>
+</resources>
